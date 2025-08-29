@@ -25,6 +25,8 @@ To build the library use:
 npx nx build pkg1
 ```
 
+yarn nx g @nx/react:app pwa-app --bundler=vite --name=pwa-app --directory=apps/pwa-app --appDir=true
+yarn nx generate @nx/react:application --name=pwa-app --directory=apps/pwa-app --bundler=vite
 To run any task with Nx use:
 
 ```sh

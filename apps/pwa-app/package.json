@@ -1,0 +1,11 @@
+{
+  "name": "@pwa-project/pwa-app",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "pwa-app"
+  },
+  "devDependencies": {
+    "vite-plugin-pwa": "^1.0.3"
+  }
+}
