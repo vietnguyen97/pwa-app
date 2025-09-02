@@ -1,0 +1,30 @@
+# Node & package managers
+node_modules
+.pnpm-store
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# NX cache
+dist
+tmp
+.cache
+.nx
+
+# Environment files
+.env
+.env.*.local
+
+# Editor & OS
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore

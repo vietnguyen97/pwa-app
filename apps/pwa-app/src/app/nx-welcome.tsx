@@ -492,7 +492,7 @@ export function NxWelcome({ title }: { title: string }) {
                     />
                   </svg>
                   <span>
-                    Documentation v13
+                    Documentation v14
                     <span> Everything is in there </span>
                   </span>
                   <svg
